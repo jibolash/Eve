@@ -28,8 +28,27 @@
             padding: 20px 10px
 
 .nav-home
-    margin-top: 40px
+    border-bottom: 1px solid $epsilon
+    margin: 40px 0 0
+    font-size: 1.3rem
+    color: $gama
+    font-weight: 300
     text-align: center
+    position: relative
+
+    &:before
+        display: block
+        content: " "
+        width: 7px
+        height: 7px
+        border: $epsilon 1px solid
+        position: absolute
+        bottom: -5px
+        left: 50%
+        margin-left: -5px
+        background: #FFF
+        box-shadow: #FFF 0 0 0 5px
+        border-radius: 3px
 
     > .list
         padding: 0
