@@ -1,4 +1,4 @@
-# Eve Jekyll Theme - <a href="http://sergiokopplin.github.io/indigo/">Demo</a>
+# Eve Jekyll Theme - <a href="http://jibolash.github.io/Eve/">Demo</a>
 
 Eve is an ultra minimal Jekyll theme for building a simple single page personal website
 
