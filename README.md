@@ -16,7 +16,10 @@ It is built using with Jekyll is easily customisable
 
 ## Usage
 
-Update _config.yml with your desired settings
+- Update _config.yml with your desired settings
+- Update _includes/about.html with information about yourself
+- Add skills you have to showcase _includes/skills.html  
+- Add projects you want to showcase to _includes/projects.html  
 
 ## License
 
