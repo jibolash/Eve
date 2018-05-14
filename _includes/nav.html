@@ -1,15 +1,32 @@
-<nav class="nav-home">
-    <ul class="list">
-        <li class="item">
-            <p class="link">About</p>
-        </li>
-    </ul>
-</nav>
+{% if site.about %}
+    <nav class="nav-home">
+        <ul class="list">
+            <li class="item">
+                <h2>About</h2>
+            </li>
+        </ul>
+    </nav> 
+    {% include about.html %}
+{% endif %}
 
-<nav class="nav-home">
-    <ul class="list">
-        <li class="item">
-            <p class="link">Projects</p>
-        </li>
-    </ul>
-</nav>
+{% if site.skills %}
+    <nav class="nav-home">
+        <ul class="list">
+            <li class="item">
+                <h2>Skills</h2>
+            </li>
+        </ul>
+    </nav>
+    {% include skills.html %}
+{% endif %}
+
+{% if site.projects %}
+    <nav class="nav-home">
+        <ul class="list">
+            <li class="item">
+                <h2>Projects</h2>
+            </li>
+        </ul>
+    </nav>
+    {% include projects.html %}
+{% endif %}

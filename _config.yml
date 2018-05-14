@@ -3,40 +3,26 @@ name: Eve Adam
 bio: Software Developer
 
 # twitter summary info
-description: Eve Adam's Website
+description: Eve Adam's Personal Website
 
-# if it's an external image, update below for true
-# better with square images
-external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
+url: https://jibolash.github.io/
 
-permalink: /:title/
-
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
-
+# do you need want social media links? true or false
+socialMedia: true
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: mytwitter
+linkedin: mylinkedin
+github: mygithub
+email: myemail@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -44,61 +30,28 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
-
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: normal
 
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
-# if you don't need "about" or "blog", comment them out below
+# do you need an about section? true or false
 about: true
 
-# do you want to show the "read time" of the posts?
-read-time: true
+# do you need a skills section? true or false
+skills: true
 
-# do you want to show the "tags" inside the posts?
-show-tags: true
+# do you need a projects section? true or false
+projects: true
 
-# related posts inside a post?
-related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
-show-author: true
+# do you need want to display the theme attribution? true or false
+footer: true
 
 # do you want some animations?
 animation: true
 
-plugins:
+gems:
   - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
 
-jekyll-mentions:
-    base_url: https://github.com
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]

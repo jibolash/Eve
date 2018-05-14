@@ -28,25 +28,15 @@ layout: compress
 <body>
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
-        {% if page.tag %}
-            <div class="post">
-        {% else %}
-            {% if showHeader != true %}
-                <div class="page {{ page.title | downcase }}">
-            {% else %}
-                <div class="{{ page.title | downcase }}">
-            {% endif %}
-        {% endif %}
-
-            {{ content }}
+        <div class="{{ page.title | downcase }}">
+        {% include header.html %}
+            
+        {{ content }}
         </div>
+
+        {% include icons.html %}
+
+        {% include footer.html %}
     </div>
-
-    {% include icons.html %}
-
-    {% if site.analytics-google %}
-        {% include analytics-google.html %}
-    {% endif %}
-
 </body>
 </html>
