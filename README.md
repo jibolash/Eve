@@ -2,7 +2,7 @@
 
 <a href="https://travis-ci.org/jibolash/Eve"><img src="https://travis-ci.org/jibolash/Eve.svg?branch=gh-pages" alt="Build Status" /></a>
 
-Eve is an ultra minimal Jekyll theme for building simple single page personal websites
+Eve is an ultra minimal Jekyll theme for building simple single page personal portfolio websites
 
 It is built with Jekyll and is easily customisable
 

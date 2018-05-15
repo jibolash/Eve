@@ -13,13 +13,13 @@ url: https://jibolash.github.io/Eve/
 # do you need want social media links? true or false
 social-media: true
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: mytwitter
-instagram: myinstagram
+linkedin: mylinkedin
 github: mygithub
 email: myemail@gmail.com
-# linkedin: mylinkedin
 # google: mygoogle
+# instagram: myinstagram
 # pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
