@@ -26,7 +26,7 @@ It is built using with Jekyll is easily customisable
 ## Credits
 
 - Inspired by <a href="https://github.com/sergiokopplin/indigo">indigo</a>
-- Demo profile photo: <a href="https://www.pexels.com/photo/woman-wearing-eyeglasses-773371/">Tarzine Jackson</a>
+- Demo profile photo by <a href="https://www.pexels.com/photo/woman-wearing-eyeglasses-773371/">Tarzine Jackson</a>
 
 ## License
 
