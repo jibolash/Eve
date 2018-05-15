@@ -14,14 +14,14 @@ It is built using with Jekyll is easily customisable
 ## Deploying to Github Pages
 - Fork or Clone the project
 - Customize `_config.yml` as desired
-- Push code to a gh-pages branch
+- Push code to a `gh-pages` branch
 
 ## Usage
 
-- Update _config.yml with your desired settings
-- Update _includes/about.html with information about yourself
-- Add skills you have to showcase _includes/skills.html  
-- Add projects you want to showcase to _includes/projects.html 
+- Update `_config.yml` with your desired settings
+- Update `_includes/about.html` with information about yourself
+- Add skills you have to showcase `_includes/skills.html` 
+- Add projects you want to showcase to `_includes/projects.html`
 - Customize anything else to your heart's content
 
 ## Credits
