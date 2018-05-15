@@ -16,6 +16,8 @@ It is built with Jekyll and is easily customisable
 - Customize `_config.yml` as desired
 - Push code to a `gh-pages` branch
 
+Learn more about Github pages <a href="https://pages.github.com/">here</a>
+
 ## Usage
 
 - Update `_config.yml` with your desired settings
