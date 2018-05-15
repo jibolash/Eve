@@ -21,7 +21,12 @@ It is built using with Jekyll is easily customisable
 - Update _config.yml with your desired settings
 - Update _includes/about.html with information about yourself
 - Add skills you have to showcase _includes/skills.html  
-- Add projects you want to showcase to _includes/projects.html  
+- Add projects you want to showcase to _includes/projects.html 
+
+## Credits
+
+- Inspired by <a href="https://github.com/sergiokopplin/indigo">indigo</a>
+- Demo Profile Photo credit: <a href="https://www.pexels.com/photo/woman-wearing-eyeglasses-773371/">Tarzine Jackson</a>
 
 ## License
 
