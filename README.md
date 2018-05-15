@@ -23,8 +23,6 @@ It is built with Jekyll and is easily customisable
 
 ## Local Setup
 
-- Update `_config.yml` with your desired settings
-- Update `_includes/about.html` with information about yourself
 - Install `Jekyll`, `NodeJS` and `Bundler`.
 - Run `bundle install` from repo's root
 - Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
