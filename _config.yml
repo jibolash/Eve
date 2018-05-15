@@ -11,7 +11,7 @@ picture: assets/images/profile.jpg
 url: https://jibolash.github.io/Eve/
 
 # do you need want social media links? true or false
-socialMedia: true
+social-media: true
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: mytwitter
@@ -42,8 +42,31 @@ about: true
 # do you need a skills section? true or false
 skills: true
 
+# add your skills here
+skills-list:
+    - HTML, Jade
+    - CSS (Stylus, Sass, Less)
+    - Javascript, NodeJS
+    - AngularJS, ReactJS
+    - Java, Android
+    - Python
+    - MySQL - MongoDB    
+    - Git    
+
 # do you need a projects section? true or false
 projects: true
+
+# add your projects here
+project-list:
+    Transcend:
+        name: Transcend
+        description: An android app for meditation 
+        url: https://github.com/Khosbayar/Transcend
+    World-Cup-History:
+        name: World Cup  History
+        description: npm package for FIFA World cup historical data
+        url: https://github.com/jibolash/world-cup-history
+
 
 # do you need want to display the theme attribution? true or false
 footer: true

@@ -1,18 +1,18 @@
 # Eve Jekyll Theme - <a href="http://jibolash.github.io/Eve/">Demo</a>
 
- <a href="https://travis-ci.org/jibolash/Eve"><img src="https://travis-ci.org/jibolash/Eve.svg?branch=gh-pages" alt="Build Status" /></a>
+<a href="https://travis-ci.org/jibolash/Eve"><img src="https://travis-ci.org/jibolash/Eve.svg?branch=gh-pages" alt="Build Status" /></a>
 
-Eve is an ultra minimal Jekyll theme for building a simple single page personal website
+Eve is an ultra minimal Jekyll theme for building simple single page personal websites
 
-It is built using with Jekyll is easily customisable
+It is built with Jekyll and is easily customisable
 
 <p align="center">
     <img src="https://preview.ibb.co/ditr6J/Screen_Shot_2018_05_14_at_6_27_06_PM.png" />
 </p>
 
-
 ## Deploying to Github Pages
-- Fork or Clone the project
+
+- Fork or Clone this repo
 - Customize `_config.yml` as desired
 - Push code to a `gh-pages` branch
 
@@ -20,9 +20,6 @@ It is built using with Jekyll is easily customisable
 
 - Update `_config.yml` with your desired settings
 - Update `_includes/about.html` with information about yourself
-- Add skills you have to showcase `_includes/skills.html` 
-- Add projects you want to showcase to `_includes/projects.html`
-- Customize anything else to your heart's content
 
 ## Credits
 

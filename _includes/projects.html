@@ -1,22 +1,11 @@
 <section class="list">
-    <div class="item">
-        <a class="url" href="">
-            <h3 class="title">Indigo</h3>
-        </a>
-        <p class="description">A simple web server</p>        
-    </div>
-
-    <div class="item">
-        <a class="url" href="">
-            <h3 class="title">Pink</h3>
-        </a>
-        <p class="description">A simple web server</p>        
-    </div>
-
-    <div class="item">
-        <a class="url" href="">
-            <h3 class="title">Termite</h3>
-        </a>
-        <p class="description">A simple web server</p>        
-    </div>
+    {% for project_hash in site.project-list %}
+    {% assign project = project_hash[1] %}
+        <div class="item">
+                <a class="url" href="{{ project.url }}">
+                    <h3 class="title">{{ project.name }}</h3>
+                </a>
+                <p class="description">{{ project.description }}</p>        
+        </div>
+    {% endfor %}
 </section>
