@@ -21,6 +21,16 @@ It is built with Jekyll and is easily customisable
 - Update `_config.yml` with your desired settings
 - Update `_includes/about.html` with information about yourself
 
+## Local Setup
+
+- Update `_config.yml` with your desired settings
+- Update `_includes/about.html` with information about yourself
+- Install `Jekyll`, `NodeJS` and `Bundler`.
+- Run `bundle install` from repo's root
+- Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
+- Vist website in your browser at `http://localhost:4000`
+- Test your app with `bundle exec htmlproofer ./_site`
+
 ## Credits
 
 - Inspired by <a href="https://github.com/sergiokopplin/indigo">indigo</a>
