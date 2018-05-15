@@ -1,10 +1,10 @@
-# main text of home
+# Your name and what you do
 name: Eve Adam
 bio: Software Developer
 
-# twitter summary info
 description: Eve Adam's Personal Website
 
+# Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
@@ -71,7 +71,7 @@ project-list:
 # do you need want to display the theme attribution? true or false
 footer: true
 
-# do you want some animations?
+# Enable animations? true or false
 animation: true
 
 gems:
