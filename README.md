@@ -22,6 +22,7 @@ It is built using with Jekyll is easily customisable
 - Update _includes/about.html with information about yourself
 - Add skills you have to showcase _includes/skills.html  
 - Add projects you want to showcase to _includes/projects.html 
+- Customize anything else to your heart's content
 
 ## Credits
 
