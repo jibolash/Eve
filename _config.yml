@@ -10,9 +10,10 @@ picture: assets/images/profile.jpg
 # your url: http://USERNAME.github.io
 url: https://jibolash.github.io/Eve/
 
-# do you need want social media links? true or false
+# do you want social media links to be displayed? true or false
 social-media: true
-# if you don't have any of social below, comment the line
+# Add your username for the social media websites listed below
+# If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
 twitter: mytwitter
 linkedin: mylinkedin
@@ -68,7 +69,7 @@ project-list:
         url: https://github.com/jibolash/world-cup-history
 
 
-# do you need want to display the theme attribution? true or false
+# do you want to display the theme attribution? true or false
 footer: true
 
 # Enable animations? true or false
