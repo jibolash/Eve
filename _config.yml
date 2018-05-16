@@ -10,7 +10,7 @@ picture: assets/images/profile.jpg
 # your url: http://USERNAME.github.io
 url: https://jibolash.github.io/Eve/
 
-# do you want social media links to be displayed? true or false
+# do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
@@ -37,10 +37,10 @@ email: myemail@gmail.com
 # normal = 560px / large = 810px
 width: normal
 
-# do you need an about section? true or false
+# do you want to display an about section? true or false
 about: true
 
-# do you need a skills section? true or false
+# do you want to display a skills section? true or false
 skills: true
 
 # add your skills here
@@ -54,7 +54,7 @@ skills-list:
     - MySQL - MongoDB    
     - Git    
 
-# do you need a projects section? true or false
+# do you want to display a projects section? true or false
 projects: true
 
 # add your projects here
