@@ -59,14 +59,22 @@ projects: true
 
 # add your projects here
 project-list:
-    Transcend:
-        name: Transcend
-        description: An android app for meditation 
-        url: https://github.com/Khosbayar/Transcend
+    Eve:
+        name: Eve
+        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
+        url: https://github.com/jibolash/Eve
     World-Cup-History:
         name: World Cup  History
         description: npm package for FIFA World cup historical data
         url: https://github.com/jibolash/world-cup-history
+    Tweeter:
+        name: Tweeter
+        description: A Twitter inspired web application built with Angular 5
+        url: https://tweetermum.herokuapp.com
+    Transcend:
+        name: Transcend
+        description: An android app for meditation and mindfulness
+        url: https://github.com/Khosbayar/Transcend
 
 
 # do you want to display the theme attribution? true or false
