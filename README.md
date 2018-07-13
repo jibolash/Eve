@@ -11,8 +11,10 @@ Eve is an ultra minimal Jekyll theme for building single page personal portfolio
 ## Deploying to Github Pages
 
 - Fork or Clone this repo
+- Rename the repo to your desired github pages url (E.g yourname.github.io)
 - Customize `_config.yml` as desired
 - Push code to a `gh-pages` branch
+- Visit your website at the github pages url you specified in the second step
 
 Learn more about Github pages <a href="https://pages.github.com/">here</a>
 
