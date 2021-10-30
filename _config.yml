@@ -50,8 +50,7 @@ skills-list:
     - Data Science | Python  
     - OOP | Java, C
     - Database | SQL, DB2, Oracle    
-    - Tools | Git, Bash
-    -  
+    - Tools | Git, Bash 
 
 # do you want to display a projects section? true or false
 projects: true
