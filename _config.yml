@@ -1,24 +1,24 @@
 # Your name and what you do
-name: Eve Adam
+name: Abu Saeed
 bio: Software Developer
 
-description: Eve Adam's Personal Website
+description: Abu Saeed's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://yumstar.github.io
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# twitter: mytwitter
+linkedin: abuhsaeed
+github: yumstar
+email: abuhsaeed@outlook.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,36 +45,50 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
-    - Git    
+    - Web | HTML, CSS, JavaScript
+    - JS Frameworks | Angular, React
+    - Data Science | Python  
+    - OOP | Java, C
+    - Database | SQL, DB2, Oracle    
+    - Tools | Git, Bash
+    -  
 
 # do you want to display a projects section? true or false
 projects: true
 
 # add your projects here
 project-list:
-    Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
-    World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
-    Tweeter:
-        name: Tweeter
-        description: A Twitter inspired web application built with Angular 5
-        url: https://tweetermum.herokuapp.com
-    Transcend:
-        name: Transcend
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
+    Evaluation-of-Transit-System-Robustness-under-Service-Disruptions:
+        name: Evaluation of Transit Systems' Robustness under-Service Disruptions
+        description: A paper that studies the "robustness" of selected transit networks as they undergo simulated disruptions on their routes  
+        url: https://github.com/yumstar/Transit-System-Robustness
+        stack: Python (NetworkX, peartree)
+    Landmark-Photo-Gallery:
+        name: Landmark Photo Gallery
+        description: Gallery that updates in real time and describes detected landmarks and other objects in added photos
+        url: https://github.com/yumstar/Landmark-Photo-Gallery
+        stack: React, Python, YOLOv3
+    srt-2-text:
+        name: srt2text
+        description: Python program that converts .srt files into text files and has a variety of formatting options that can be specified using command line options
+        url: https://github.com/yumstar/srt2text
+        stack: Python
+    Breezy-Refill-Menu:
+        name: Breezy Refill Menu
+        description: Text Interface that accepts codes from users to both notify a pharmacy of a refill request and sends out a confirmation email
+        url: https://github.com/yumstar/Breezy-Refill-Menu
+        stack: Python
+    Exponent-Law-Program:
+        name: Exponent Law Program
+        description: An educational application that teaches the concepts of exponent laws and guides users through sample problems in a choose-your-adventure style
+        url: https://github.com/yumstar/Exponent-Laws-Teacher
+        stack: Java (Swing)
+    Sudoku-Exposer:
+        name: Sudoku Exposer
+        description: Web app that solves sudoku boards with intuitive input options
+        url: https://github.com/yumstar/Sudoku-Exposer
+        stack: HTML, CSS, JavaScript
+   
 
 
 # do you want to display the theme attribution? true or false
