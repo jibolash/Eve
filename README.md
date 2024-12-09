@@ -1,7 +1,5 @@
 # Eve Jekyll Theme - <a href="http://jibolash.github.io/Eve/">Demo</a>
 
-<a href="https://travis-ci.org/jibolash/Eve"><img src="https://travis-ci.org/jibolash/Eve.svg?branch=gh-pages" alt="Build Status" /></a>
-
 <a href="https://jekyll-themes.com/jibolash/Eve">
   <img
     src="https://img.shields.io/badge/featured%20on-JT-red.svg"
