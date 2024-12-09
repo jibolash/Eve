@@ -51,31 +51,26 @@ skills-list:
     - AngularJS, ReactJS
     - Java, Android
     - Python
-    - MySQL - MongoDB    
-    - Git    
+    - MySQL - MongoDB
+    - Git
 
 # do you want to display a projects section? true or false
 projects: true
 
 # add your projects here
 project-list:
+    QuizKnit:
+        name: QuizKnit
+        description: AI powered web application that generates a quiz based on user provided text. Users can share the quiz using a custom url and also test their knowledge by exploring quizzes created by other people.
+        url: https://quizknit.com
     Eve:
         name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
+        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites. Currently has 50+ Github stars. This website is built with it!
         url: https://github.com/jibolash/Eve
     World-Cup-History:
         name: World Cup  History
-        description: npm package for FIFA World cup historical data
+        description: npm package for FIFA World cup historical data.
         url: https://github.com/jibolash/world-cup-history
-    Tweeter:
-        name: Tweeter
-        description: A Twitter inspired web application built with Angular 5
-        url: https://tweetermum.herokuapp.com
-    Transcend:
-        name: Transcend
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
-
 
 # do you want to display the theme attribution? true or false
 footer: true
@@ -84,6 +79,6 @@ footer: true
 animation: true
 
 gems:
-  - jekyll-seo-tag
+    - jekyll-seo-tag
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
