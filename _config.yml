@@ -78,7 +78,7 @@ footer: true
 # Enable animations? true or false
 animation: true
 
-gems:
+plugins:
     - jekyll-seo-tag
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
